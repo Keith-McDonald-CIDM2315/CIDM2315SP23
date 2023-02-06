@@ -27,6 +27,26 @@ class HelloWorld {
 }
 
 
+
+﻿namespace Homework3part2;
+using System;
+class Pattern {
+  static void Main() {
+       Console.WriteLine("Assign an int value to N: ");
+        int n = int.Parse(Console.ReadLine());
+        
+        for(int i = 0;i<n;i++){
+            
+        for(int j =0;j<n;j++){
+            Console.Write("#");
+        }
+            Console.WriteLine();
+        }
+  }
+}
+
+
+
 ﻿namespace Homework3part3;
 using System;
 public class Program {
