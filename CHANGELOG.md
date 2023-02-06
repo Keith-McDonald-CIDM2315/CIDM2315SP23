@@ -3,10 +3,7 @@
 - Upload the Homework1.cs file.
 
 1/30 Lecture 2
-- Upload HomeworkQuestion1.cs file.
-- Upload HomeworkQuestion2.cs file.
+- Upload Homework2.cs file.
 
 2/6 Lecture 3
-- Upload HomeworkQuestion1.cs file.
-- Upload HomeworkQuestion2.cs file.
-- Upload HomeworkQuestion3.cs file.
+- Upload Homework3.cs file.
