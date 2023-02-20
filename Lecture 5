@@ -1,4 +1,4 @@
-namespace Lecture5;
+namespace Question 1;
 using System;
 
 public class Largest1
