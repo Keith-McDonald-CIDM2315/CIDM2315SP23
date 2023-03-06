@@ -13,3 +13,6 @@
 
 2/20 Lecture 5
 -Upload Homework5.cs file.
+
+3/6 Lecture 7
+- Upload Homework6.cs file.
