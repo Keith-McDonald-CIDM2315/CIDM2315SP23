@@ -1,4 +1,4 @@
-//Ptrofessor class
+//Professor class
 class Professor { 
     //Public variables
     public String? profName;
