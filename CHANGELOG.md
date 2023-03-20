@@ -16,3 +16,9 @@
 
 3/6 Lecture 7
 - Upload Homework6.cs file.
+
+3/20 Exam Extra Credit
+- Upload ExamExtraCredit.cs file.
+
+3/20 Lecture 8
+- Upload Homework7.cs file.
