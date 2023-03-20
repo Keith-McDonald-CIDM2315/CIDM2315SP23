@@ -45,6 +45,6 @@ class HelloWorld {
     cust1.PrintCusInfo();
     cust2.PrintCusInfo();
     // Printing who is older
-      Console.WriteLine("Bob is older");
+    Console.WriteLine("Bob is older");
   }
 }
