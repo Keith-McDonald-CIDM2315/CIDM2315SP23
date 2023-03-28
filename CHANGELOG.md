@@ -22,3 +22,6 @@
 
 3/20 Lecture 8
 - Upload Homework7.cs file.
+
+3/27 Lecture 9
+- Upload Homework8.cs file.
